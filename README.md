@@ -1,1 +1,1 @@
-The file contains basic typescript programs. 
+The folder contains basic typescript programs.
